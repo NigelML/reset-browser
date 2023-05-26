@@ -1,0 +1,9 @@
+//arquivo principal que incorpora todo o resto,
+//importações podem ser descartadas caso necessário.
+@use 'reset-styles';
+@use 'reset-block-elements';
+@use 'reset-inline-elements';
+@use 'reset-other-styles';
+@use 'reset-specific-styles';
+@use 'hidden-functionality';
+

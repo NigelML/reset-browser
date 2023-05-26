@@ -1,0 +1,4 @@
+#Ignorar todos arquivos de testes html
+*html
+test.css
+test.css.map
